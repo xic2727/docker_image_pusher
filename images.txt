@@ -1,1 +1,4 @@
 mongo
+confluentinc/cp-zookeeper:7.0.1
+confluentinc/cp-kafka:7.0.1
+provectuslabs/kafka-ui
